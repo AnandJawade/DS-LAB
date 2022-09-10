@@ -1,0 +1,9 @@
+Roll number : 214101022
+
+Graphviz is needed for print tree part.
+It will automatically convert .dot file into .png file.(system call is added)
+Image will be in same folder as main.
+Used dev cpp 5.11 version.
+Will work in codeblocks as well.
+Press compile and run.
+You will get all instructions there.

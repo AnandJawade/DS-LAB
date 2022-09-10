@@ -1,0 +1,14 @@
+How to run:
+On windows:
+compile and run in dev cpp
+
+On linux:
+make
+./output
+
+
+For print part:
+system call is already given in code.
+It will directly create image.png file in same folder
+
+ 

@@ -1,0 +1,40 @@
+DS LAB ASSIGNMENT 4
+214101022
+
+LABELLING OF GRAPH STARTS FROM 1.
+IF THERE 'N' NODES IN GRAPH THEN LABELLING WILL GO FROM 1 TO N.
+DIFFERENT "image" FILES WILL BE GENERATED FOR DIFFERENT QUESTIONS IN THE ASSIGNMENT.
+
+NOTE:
+"file.txt" IS PRESENT IN FOLDER.
+PROGRAM WILL READ DATA FROM "file.txt".
+EITHER REPLACE THE FILE WITH NEW "file.txt" OR CHANGE THE DATA INSIDE THE FILE FOR TEST CASES.
+
+"outputs" FOLDER CONTAINS THE OUTPUT FOR CURRENT GRAPH PRESENT IN FILE.
+
+If code is giving compilation error then follow the settings,(FOR DEV CPP)
+GoTo Tools -> Compiler option -> Settings -> Code Generation -> Language standard(-std)
+Select GNU C++11.
+
+QUE 1:
+"image1" file will be generated in which graph will be printed.
+Check document for node strucuture.
+t = tree edge 
+f = forward edge 
+b = backward edge 
+c = cross edge 
+
+QUE 2:
+"image2" file will be generated in which graph will be printed.
+Check document for node strucuture.
+
+QUE 3:
+"image3" file will be generated in which graph will be printed.
+Check document for node strucuture.
+
+QUE 5:
+"image5" file will be generated in which graph will be printed.
+Check document for node strucuture.
+
+
+

@@ -1,0 +1,26 @@
+digraph G{
+edge[dir = forward]
+node[shape = oval];
+1[label = "1[1,16]"];
+2[label = "2[2,15]"];
+3[label = "3[13,14]"];
+3->1[label = "1,b" ]
+8[label = "8[7,8]"];
+6[label = "6[6,9]"];
+6->8[label = "1,t" ]
+8->6[label = "1,b" ]
+3->8[label = "6,c" ]
+2->3[label = "5,t" ]
+2->8[label = "1,f" ]
+4[label = "4[3,12]"];
+4->6[label = "1,f" ]
+5[label = "5[4,11]"];
+5->4[label = "1,b" ]
+7[label = "7[5,10]"];
+7->5[label = "1,b" ]
+7->6[label = "4,t" ]
+5->7[label = "3,t" ]
+4->5[label = "1,t" ]
+2->4[label = "2,t" ]
+1->2[label = "1,t" ]
+}
